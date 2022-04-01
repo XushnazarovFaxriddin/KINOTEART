@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Kinoteatr\Kinoteatr\bin\Debug\Kinoteatr.exe.config
+C:\Users\user\source\repos\Kinoteatr\Kinoteatr\bin\Debug\Kinoteatr.exe
+C:\Users\user\source\repos\Kinoteatr\Kinoteatr\bin\Debug\Kinoteatr.pdb
+C:\Users\user\source\repos\Kinoteatr\Kinoteatr\obj\Debug\Kinoteatr.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Kinoteatr\Kinoteatr\obj\Debug\Kinoteatr.Kinoteatr.resources
+C:\Users\user\source\repos\Kinoteatr\Kinoteatr\obj\Debug\Kinoteatr.Properties.Resources.resources
+C:\Users\user\source\repos\Kinoteatr\Kinoteatr\obj\Debug\Kinoteatr.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Kinoteatr\Kinoteatr\obj\Debug\Kinoteatr.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Kinoteatr\Kinoteatr\obj\Debug\Kinoteatr.exe
+C:\Users\user\source\repos\Kinoteatr\Kinoteatr\obj\Debug\Kinoteatr.pdb
+C:\Users\user\source\repos\Kinoteatr\Kinoteatr\bin\Debug\konsertlarDB.mdf
+C:\Users\user\source\repos\Kinoteatr\Kinoteatr\bin\Debug\konsertlarDB_log.ldf
+C:\Users\user\source\repos\Kinoteatr\Kinoteatr\obj\Debug\Kinoteatr.newKonsert.resources
+C:\Users\user\source\repos\Kinoteatr\Kinoteatr\obj\Debug\Kinoteatr.Konsert.resources
